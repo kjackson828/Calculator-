@@ -1,6 +1,7 @@
 # Calculator-
 Codecademy freeform project
 
+//A simple arthimetic calculator that can add, subtract, multiply, divide, or apply modulo to two integers 
 public class Calculator {
   public Calculator() {}
   int add(int a, int b) {
